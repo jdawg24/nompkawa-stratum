@@ -28,7 +28,7 @@
         "url": "https://github.com/cryptozeny/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/jdawg24/nonompkawa-hashing.git",
+        "multi-hashing": "https://github.com/jdawg24/nompkawa-hashing.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
