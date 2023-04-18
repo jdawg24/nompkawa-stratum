@@ -25,7 +25,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cryptozeny/node-stratum-pool.git"
+        "url": "https://github.com/jdawg24/nompkawa-stratum.git"
     },
     "dependencies": {
         "multi-hashing": "https://github.com/jdawg24/nompkawa-hashing.git",
